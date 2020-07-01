@@ -83,6 +83,34 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2020-07-08",
+      "description": "A common European species of daisy. ",
+      "category": "income",
+      "amount": 13,
+      "id": 13
+    },
+    {
+      "date": "2020-07-30",
+      "description": "Fennel is a flowering plant species in the carrot family. It is a hardy, perennial herb with yellow flowers and feathery leaves. It is indigenous to the shores of the Mediterranean but has become widely naturalized in many parts of the world, especially on dry soils near the sea-coast and on riverbanks.",
+      "category": "income",
+      "amount": 500,
+      "id": 14
+    },
+    {
+      "date": "2020-04-13",
+      "description": "Birthday surprise",
+      "category": "fashion",
+      "amount": 0,
+      "id": 15
+    },
+    {
+      "date": "2020-07-28",
+      "description": "a common herb ",
+      "category": "fashion",
+      "amount": "-0.56",
+      "id": 16
     }
   ]
 }
